@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/websitesd/static/css/main.0ce21bf5.chunk.css",
+    "main.js": "/websitesd/static/js/main.6dd0b3ea.chunk.js",
+    "main.js.map": "/websitesd/static/js/main.6dd0b3ea.chunk.js.map",
+    "runtime-main.js": "/websitesd/static/js/runtime-main.6a870096.js",
+    "runtime-main.js.map": "/websitesd/static/js/runtime-main.6a870096.js.map",
+    "static/js/2.6263176c.chunk.js": "/websitesd/static/js/2.6263176c.chunk.js",
+    "static/js/2.6263176c.chunk.js.map": "/websitesd/static/js/2.6263176c.chunk.js.map",
+    "index.html": "/websitesd/index.html",
+    "precache-manifest.6334aea31de5e1479150dd3361fb0cc7.js": "/websitesd/precache-manifest.6334aea31de5e1479150dd3361fb0cc7.js",
+    "service-worker.js": "/websitesd/service-worker.js",
+    "static/css/main.0ce21bf5.chunk.css.map": "/websitesd/static/css/main.0ce21bf5.chunk.css.map",
+    "static/js/2.6263176c.chunk.js.LICENSE.txt": "/websitesd/static/js/2.6263176c.chunk.js.LICENSE.txt",
+    "static/media/Skills.css": "/websitesd/static/media/tupacjpg.53278ff2.jpg",
+    "static/media/LandingPage.css": "/websitesd/static/media/pic.89073169.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a870096.js",
+    "static/js/2.6263176c.chunk.js",
+    "static/css/main.0ce21bf5.chunk.css",
+    "static/js/main.6dd0b3ea.chunk.js"
+  ]
+}
