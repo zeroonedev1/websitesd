@@ -1,0 +1,47 @@
+.one{
+    width: 90px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url('../Assets//acdc.jpg');
+}
+.two{
+    background-color: red;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url('../Assets/Coldplay.jpg');  
+}
+.three{
+    background-color: red;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url('../Assets/Jayz.jpg');  
+}
+.four{
+    background-color: red;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url('../Assets/LPjpg.jpg');    
+}
+.five{
+    background-color: red;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url('../Assets/pinkfloyd.jpg');    
+}
+.six{
+    background-color: red;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url('../Assets/tupacjpg.jpg');    
+}
+.skill-name{
+    background-color: yellow;
+    width: auto;
+}
+.skills-parent{
+    display: flex;
+    justify-content: space-around;
+}
+.skills-body{
+    background: radial-gradient(ellipse at center, #d61212 0%, #ff0000cc 100%);
+}

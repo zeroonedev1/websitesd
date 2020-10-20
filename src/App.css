@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  font-family: 'Lato', sans-serif;
+  height: 100vh;
+  background: #232333;
+  background: radial-gradient(ellipse at center, #232333 0%, #161616 100%);
+  /* overflow: hidden; */
 }
 
 .App-logo {

@@ -1,0 +1,50 @@
+
+.line {
+  margin-bottom: 1%;
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+            flex-direction: row;
+    -webkit-box-pack: start;
+            justify-content: flex-start;
+    -webkit-box-align: start;
+            align-items: flex-start;
+  }
+  
+  .line-number {
+    width: 14px;
+    margin-right: 1.5rem;
+    opacity: 0.33;
+  }
+  
+  .line-content,
+  .line-content mark {
+    font-size: 14px;
+    line-height: 30px;
+    letter-spacing: 4px;
+    opacity: 85%;
+  }
+  .line-content mark {
+    letter-spacing: 6px;
+  }
+  
+  .empty-line .line-number {
+    display: block;
+  }
+  .empty-line .line-number-a {
+    opacity: 0.15;
+  }
+  .empty-line .line-number-b {
+    opacity: 0.1;
+  }
+  .empty-line .line-number-c {
+    opacity: 0.05;
+  }
+  .empty-line .line-number-d {
+    opacity: 0.04;
+  }
+  .artist{
+    width: 50px;
+    height: 50px;
+  }
