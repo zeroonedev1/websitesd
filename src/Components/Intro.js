@@ -6,7 +6,7 @@ function Intro() {
       <div className="introduction">
         <div className="line">
           <span className="line-number">1</span>
-          <span className="line-content">Hi there</span>
+          <span className="line-content"><p>Hi there</p></span>
         </div>
         <div className="line">
           <span className="line-number">2</span>
