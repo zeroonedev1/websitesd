@@ -3,6 +3,7 @@ import "./Skills.css";
 function Skills() {
   return (
     <div className="skills-body">
+      <h1>SKILLS</h1>
       <div className="skills-parent">
         <div className="child">
           <div className="artist one"></div>
@@ -55,7 +56,6 @@ function Skills() {
         <div className="child">
           <div className="artist six"></div>
           <div className="skill-name">
-            Misc<br></br>
             Unity Game Engine<br></br>
             C#<br></br>
           </div>

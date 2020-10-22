@@ -17,17 +17,16 @@ function Intro() {
         <div className="line">
           <span className="line-number">3</span>
           <span className="line-content">
-            a <mark>front-end engineer</mark> mostly...
+            a <mark>front-end engineer</mark> mostly.
           </span>
         </div>
         <div className="line">
-          <span className="line-number">3</span>
+          <span className="line-number">4</span>
           <span className="line-content">
              at times..I Develop <mark> Games</mark>
           </span>
         </div>
         <div className="empty-line">
-          <div className="line-number line-number-a">4</div>
           <div className="line-number line-number-b">5</div>
           <div className="line-number line-number-c">6</div>
           <div className="line-number line-number-d">7</div>

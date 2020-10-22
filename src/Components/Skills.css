@@ -1,47 +1,63 @@
 .one{
-    width: 90px;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url('../Assets//acdc.jpg');
+    background-image: url('../Assets/Coldplay.jpg');
 }
 .two{
-    background-color: red;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url('../Assets/Coldplay.jpg');  
+    background-image: url('../Assets/greenday.jpg');  
 }
 .three{
-    background-color: red;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url('../Assets/Jayz.jpg');  
+    background-image: url('../Assets/jayz.jpg');  
 }
 .four{
-    background-color: red;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url('../Assets/LPjpg.jpg');    
+    background-image: url('../Assets/linkinpark.jpg');    
 }
 .five{
-    background-color: red;
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-image: url('../Assets/pinkfloyd.jpg');    
-}
-.six{
-    background-color: red;
     background-size: contain;
     background-repeat: no-repeat;
     background-image: url('../Assets/tupacjpg.jpg');    
 }
+.six{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url('../Assets/pinkfloyd.jpg');    
+}
 .skill-name{
-    background-color: yellow;
-    width: auto;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 10px;
+    line-height: 15px;
+}
+.artist{
+    margin: auto;
+    margin-top: 4px;
 }
 .skills-parent{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly   ;
+}
+.child{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border: 4px dotted;
+    width: 150px;
 }
 .skills-body{
     background: radial-gradient(ellipse at center, #d61212 0%, #ff0000cc 100%);
 }
+h1{
+    margin: 0;
+    font-family: 'Press Start 2P', cursive;
+}
+.child:hover {
+    max-height: 800px;
+    opacity: 0.8;
+    background-color: yellowgreen;
+    color:white
+  }
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto+Slab&display=swap');
